@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Data.Entity;
 using System.Linq;
@@ -22,6 +23,8 @@ namespace CodeFirst
         public float FullPrice { get; set; }
         public Author Author { get; set; }
         public IList<Tag> Tags { get; set; }
+
+        public int? Author_Id { get; set; }
     }
 
     public class Author
@@ -54,6 +57,19 @@ namespace CodeFirst
         public PlutoContext() : base("name=DefaultConnection")
         {
             
+        }
+
+        protected override void OnModelCreating(DbModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Author>()
+                .HasMany(e => e.Courses)
+                .WithOptional(e => e.Author)
+                .HasForeignKey(e => e.Author_Id);
+
+            modelBuilder.Entity<Course>()
+                .HasMany(e => e.Tags)
+                .WithMany(e => e.Courses)
+                .Map(m => m.ToTable("TagCourses").MapLeftKey("Course_Id"));
         }
     }
 

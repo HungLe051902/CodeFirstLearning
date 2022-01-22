@@ -82,6 +82,10 @@
     <Compile Include="Migrations\202112260418332_DeleteCategoriesTable.Designer.cs">
       <DependentUpon>202112260418332_DeleteCategoriesTable.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202201220805193_NewField.cs" />
+    <Compile Include="Migrations\202201220805193_NewField.Designer.cs">
+      <DependentUpon>202201220805193_NewField.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -114,6 +118,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202112260418332_DeleteCategoriesTable.resx">
       <DependentUpon>202112260418332_DeleteCategoriesTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202201220805193_NewField.resx">
+      <DependentUpon>202201220805193_NewField.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

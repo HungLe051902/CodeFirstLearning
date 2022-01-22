@@ -19,3 +19,4 @@ D:\Programming\Web\Projects\C#\EntityFramework\CodeFirst\CodeFirst\obj\Debug\Cod
 D:\Programming\Web\Projects\C#\EntityFramework\CodeFirst\CodeFirst\obj\Debug\CodeFirst.Migrations.DeleteDatePublishedColumnInCoursesTable.resources
 D:\Programming\Web\Projects\C#\EntityFramework\CodeFirst\CodeFirst\obj\Debug\CodeFirst.Migrations.DeleteCategoryColumnInCoursesTable.resources
 D:\Programming\Web\Projects\C#\EntityFramework\CodeFirst\CodeFirst\obj\Debug\CodeFirst.Migrations.DeleteCategoriesTable.resources
+D:\Programming\Web\Projects\C#\EntityFramework\CodeFirst\CodeFirst\obj\Debug\CodeFirst.Migrations.NewField.resources
