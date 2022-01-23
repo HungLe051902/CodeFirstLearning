@@ -1,0 +1,14 @@
+D:\Programming\Web\Projects\C#\EntityFramework\CodeFirst\DataAnnotations\DataAnnotations\bin\Debug\DataAnnotations.exe.config
+D:\Programming\Web\Projects\C#\EntityFramework\CodeFirst\DataAnnotations\DataAnnotations\bin\Debug\DataAnnotations.exe
+D:\Programming\Web\Projects\C#\EntityFramework\CodeFirst\DataAnnotations\DataAnnotations\bin\Debug\DataAnnotations.pdb
+D:\Programming\Web\Projects\C#\EntityFramework\CodeFirst\DataAnnotations\DataAnnotations\bin\Debug\EntityFramework.dll
+D:\Programming\Web\Projects\C#\EntityFramework\CodeFirst\DataAnnotations\DataAnnotations\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programming\Web\Projects\C#\EntityFramework\CodeFirst\DataAnnotations\DataAnnotations\bin\Debug\EntityFramework.xml
+D:\Programming\Web\Projects\C#\EntityFramework\CodeFirst\DataAnnotations\DataAnnotations\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programming\Web\Projects\C#\EntityFramework\CodeFirst\DataAnnotations\DataAnnotations\obj\Debug\DataAnnotations.csproj.AssemblyReference.cache
+D:\Programming\Web\Projects\C#\EntityFramework\CodeFirst\DataAnnotations\DataAnnotations\obj\Debug\DataAnnotations.csproj.CoreCompileInputs.cache
+D:\Programming\Web\Projects\C#\EntityFramework\CodeFirst\DataAnnotations\DataAnnotations\obj\Debug\DataAnnotations.csproj.CopyComplete
+D:\Programming\Web\Projects\C#\EntityFramework\CodeFirst\DataAnnotations\DataAnnotations\obj\Debug\DataAnnotations.exe
+D:\Programming\Web\Projects\C#\EntityFramework\CodeFirst\DataAnnotations\DataAnnotations\obj\Debug\DataAnnotations.pdb
+D:\Programming\Web\Projects\C#\EntityFramework\CodeFirst\DataAnnotations\DataAnnotations\obj\Debug\DataAnnotations.Migrations.Init.resources
+D:\Programming\Web\Projects\C#\EntityFramework\CodeFirst\DataAnnotations\DataAnnotations\obj\Debug\DataAnnotations.csproj.GenerateResource.cache
