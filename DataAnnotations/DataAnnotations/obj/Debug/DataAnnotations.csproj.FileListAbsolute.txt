@@ -12,3 +12,4 @@ D:\Programming\Web\Projects\C#\EntityFramework\CodeFirst\DataAnnotations\DataAnn
 D:\Programming\Web\Projects\C#\EntityFramework\CodeFirst\DataAnnotations\DataAnnotations\obj\Debug\DataAnnotations.pdb
 D:\Programming\Web\Projects\C#\EntityFramework\CodeFirst\DataAnnotations\DataAnnotations\obj\Debug\DataAnnotations.Migrations.Init.resources
 D:\Programming\Web\Projects\C#\EntityFramework\CodeFirst\DataAnnotations\DataAnnotations\obj\Debug\DataAnnotations.csproj.GenerateResource.cache
+D:\Programming\Web\Projects\C#\EntityFramework\CodeFirst\DataAnnotations\DataAnnotations\obj\Debug\DataAnnotations.Migrations.Init1.resources

@@ -52,9 +52,14 @@
     <Compile Include="Author.cs" />
     <Compile Include="Course.cs" />
     <Compile Include="Cover.cs" />
+    <Compile Include="EntityConfigurations\CourseConfiguration.cs" />
     <Compile Include="Migrations\202201230251458_Init.cs" />
     <Compile Include="Migrations\202201230251458_Init.Designer.cs">
       <DependentUpon>202201230251458_Init.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202201280037268_Init1.cs" />
+    <Compile Include="Migrations\202201280037268_Init1.Designer.cs">
+      <DependentUpon>202201280037268_Init1.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="PlutoContext.cs" />
@@ -72,6 +77,10 @@
     <EmbeddedResource Include="Migrations\202201230251458_Init.resx">
       <DependentUpon>202201230251458_Init.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202201280037268_Init1.resx">
+      <DependentUpon>202201280037268_Init1.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
